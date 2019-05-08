@@ -5,7 +5,7 @@ description: A simple Event Bus using Dart Streams for decoupling applications
 repository: https://github.com/marcojakob/dart-event-bus
 homepage: https://code.makery.ch/library/dart-event-bus
 environment:
-  sdk: '>=2.0.0 <3.0.0'
+  sdk: '>=2.0.0-dev.68.0 <3.0.0'
 dev_dependencies:
   build_runner: ^1.2.5
   build_web_compilers: ^1.1.0
